@@ -43,7 +43,7 @@ const IndexPage = () => {
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
+          worn by <span className={styles.gold}>sunspel</span> and{' '}
           <span className={styles.gold}>scotch&soda</span>
         </p>
       </div>
